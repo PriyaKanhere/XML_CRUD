@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employess>
+  <Employee>
+    <id>102</id>
+    <name>Amit</name>
+    <salary>12000</salary>
+    <email>Amit@gmail.com</email>
+    <address>Delhi</address>
+  </Employee>
+  <Employee>
+    <id>101</id>
+    <name>Amar Kumar</name>
+    <salary>20000</salary>
+    <email>amar@ss.com</email>
+    <address>1235</address>
+  </Employee>
+  <Employee>
+    <id>105</id>
+    <name>Priya kanhere</name>
+    <salary>150000</salary>
+    <email>Surya</email>
+    <address>12222</address>
+  </Employee>
+  <Employee>
+    <id>103</id>
+    <name>Sumeet</name>
+    <salary>12000</salary>
+    <email>Sumeet@gmail.com</email>
+    <address>new delhi</address>
+  </Employee>
+  <Employee>
+    <id>106</id>
+    <name>Prateek </name>
+    <salary>150000</salary>
+    <email>prateek@gmail.com</email>
+    <address>12222</address>
+  </Employee>
+</Employess>
